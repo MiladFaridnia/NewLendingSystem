@@ -1,0 +1,10 @@
+e:\Projects\NewLendingSystem\db\enter\bin\Debug\enter.dacpac
+e:\Projects\NewLendingSystem\db\enter\bin\Debug\Database.dll
+e:\Projects\NewLendingSystem\db\enter\bin\Debug\Database.pdb
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\enter.sqlproj.AssemblyReference.cache
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\Model.xml
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\refactor.xml
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\postdeploy.sql
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\predeploy.sql
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\Database.dll
+e:\Projects\NewLendingSystem\db\enter\obj\Debug\Database.pdb

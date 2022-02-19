@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxKe8ek6VYomR9vokbJU5SkcYNB0WULt2VJBli1uvIhHpbo47JnCsRxep2sM8F59UYWMKbvplq236TNIZGrdWQ==",
+  "success": true,
+  "projectFilePath": "e:\\Projects\\NewLendingSystem\\db\\enter\\enter.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\milad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
